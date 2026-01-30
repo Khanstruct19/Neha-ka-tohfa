@@ -78,7 +78,7 @@
         #letter {
             position: fixed;
             width: 40%;
-            right: -100%;
+            right: -80%;
             top: 50%;
             transform: translateY(-50%) rotate(3deg);
             background-color: white;
@@ -176,3 +176,4 @@
                 transform: scale(0.7);
             }
         }
+
