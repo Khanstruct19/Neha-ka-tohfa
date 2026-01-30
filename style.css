@@ -78,9 +78,9 @@
         #letter {
             position: fixed;
             width: 40%;
-            right: -80%;
+            right: -60%;
             top: 50%;
-            transform: translateY(-50%) rotate(3deg);
+            transform: translateY(-30%) rotate(3deg);
             background-color: white;
             padding: 40px;
             border-radius: 10px;
@@ -176,6 +176,7 @@
                 transform: scale(0.7);
             }
         }
+
 
 
 
